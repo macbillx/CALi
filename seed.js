@@ -1,0 +1,2 @@
+window.CM_SEED = [];
+
